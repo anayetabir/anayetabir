@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anayet</h1>
+<h1 align="center">😬😬,Thank you for wasting your time!!!</h1>
 <h3 align="center">Junior Java Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anayetabir" alt="anayetabir" /></a> </p>

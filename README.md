@@ -1,4 +1,7 @@
-<h1 align="center">😬😬I am Anayet,Thank you for wasting your time!!!</h1>
+<h1 align="center"<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Good+To+See+You+Here!+👋;This+is+Anayet+Hossain+Abir;&center=true&size=25">
+  </a></h1>
 <h3 align="center">Junior Java Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anayetabir" alt="anayetabir" /></a> </p>

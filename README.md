@@ -16,6 +16,12 @@
 
 - ⚡ Fun fact **I Love to Play Fifa**
 
+<h4 align="left">My competitive programming status:</h4>
+
+<a href="https://codeforces.com/profile/White_Fox_79"><img src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/White_Fox_79&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400" alt="Anayet's profile on Codeforces" title="Anayet's profile on Codeforces"></a>
+ </p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/anayet-abir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anayet-abir" height="30" width="40" /></a>

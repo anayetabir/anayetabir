@@ -2,13 +2,13 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Good+To+See+You+Here!+👋;It's+me+Anayet+Abir!!;&center=true&size=25">
   </a></h1>
-<h3 align="center">Junior Java Developer</h3>
+<h3 align="center">Junior Web Developer</h3>
 
 
 
-- 🔭 I’m currently working on **Java Development**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Some Java Framework**
+- 🌱 I’m currently learning **Some Web Projects**
 
 - 💬 Ask me about **MySelf**
 
